@@ -1,0 +1,46 @@
+Programming computers is an essential part of any high-energy physicists job :
+most of us spend hours every day writing code of some kind, whether scripting
+or something more sophisticated. In addition, funding constraints mean that writing
+efficient code is absolutely necessary to maximize our physics output. Despite
+these facts, however, the field as a whole is curiously lacking in tangible rewards
+and incentives for physicists to become skilled programmers. We have a culture in
+which being able to build a piece of detector hardware detector is a respected skill for
+a physicist, but the same is simply not true of being able to build a piece of software. 
+For this reason most of us write code in the same way that witchdoctors treat illnesses :
+curating code fragments acquired over years of doing "whatever works", and assembling
+them into whichever Frankenstein is needed to solve today's problem.
+
+We are stuck, then, between the contradiction of real world constraints which make
+programming well an essential skill, and a culture which steadfastly refuses to
+apportion appropriate recognition to programming well. This leads to suboptimal
+behaviour. A small core of "experts" is forever firefighting problems, often improving
+existing code in a piecemeal fashion because the resources aren't there to allow a more
+holistic approach. In turn these "experts" become culturally disconnected from the so-called
+"users", who often perceive necessary changes brought in by the "experts" as the hand of god
+destroying their carefully preserved galleries of useful code fragments. Needless to
+say, this does not foster learning on the part of anyone.
+
+In fact, however, most physicists would like to learn how to code better. I say that
+not only because physicists are a naturally curious subset of society, but also because
+the evidence is there from the detector side. When "service" work exists in a culture which
+values it, in a culture where the senior professors are often famous because they built this
+or that piece of a detector, and in which said professors are enthusiastic about passing this
+knowledge to younger physicists, then said younger physicists are very enthusiastic to learn.
+There is no reason why we shouldn't be able to create a similar culture around software.
+
+Recently some LHCb members have started the excellent starterkit initiative
+
+https://github.com/betatim/lhcb-first-analysis-steps
+
+which attempts to create a structure in which physicists can learn about software
+development. This is an excellent resource which addresses the chronic lack of pedagogical
+material in LHCb. However, we also need to fix the second half of the equation : until we
+reward being a programming expert in a direct and tangible way, all the goodwill in the
+world will not be enough to overcome the incentive structures which drive people to spend
+as little of their time programming well as possible.
+
+This document is a modest attempt to formulate a proposal for how to set up such a reward
+and incentive structure. Please contribute and pull-request away... including if you disagree
+with the above summary of the problem.
+
+Vava
