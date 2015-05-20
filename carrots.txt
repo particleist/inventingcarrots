@@ -1,0 +1,30 @@
+This is a very incomplete list of potential rewards/incentives. It is deliberately
+not simply a list of "prizes" but largely includes monetary components; how these
+would be funded is something the CB would need to think about in due course if
+any of this takes off. I just note that in the general context of LHCb expenditure, the
+sums mentioned amount to a few thousand CHF, i.e. peanuts. Frankly we could take this
+money out of the M&O which is normally spent on the farm, since we know that improving
+our software has already saved hundreds of thousands of CHF in servers.
+
+The funding to attend non-HEP meetings or conferences is also very deliberate, because
+physicists don't have enough opportunities to engage with software professionals. It is
+good both for the physicist's ability to transfer to industry if they so choose, and good
+for bringing advanced coding methods back to our collaboration.
+
+1) An annual thesis prize for "most innovative contribution to LHCb software by a PhD student",
+a reward of 500 CHF plus funding for one trip to a non-HEP conference/hackathon/whatever
+of the winner's choice. To be awarded by the computing project management, open nominations.
+
+2) An annual prize for contributions to LHCb software, a reward of 1000 CHF plus
+funding for one trip to a non-HEP conference/hackathon/whatever of the winner's choice.
+To be awarded by the computing project management, open nominations.
+
+3) A prize for any code improvement which speeds up the reconstruction or trigger configuration
+by 5% or more, a reward of 1000 CHF plus funding for one trip to a non-HEP
+conference/hackathon/whatever of the winner's choice. To be awarded by the computing project
+management, open nominations.
+
+4) A prize for collaborative programming, for initiatives which make a significant improvement
+to LHCb software and are seen as having improved community participation in the software
+design. Funding for one trip to a non-HEP conference/hackathon/whatever (per team member)
+of the winner's choice. To be voted on by collaboration members.
