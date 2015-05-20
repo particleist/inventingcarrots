@@ -39,8 +39,8 @@ reward being a programming expert in a direct and tangible way, all the goodwill
 world will not be enough to overcome the incentive structures which drive people to spend
 as little of their time programming well as possible.
 
-This document is a modest attempt to formulate a proposal for how to set up such a reward
+This repository is a modest attempt to formulate a proposal for how to set up such a reward
 and incentive structure. Please contribute and pull-request away... including if you disagree
 with the above summary of the problem.
 
-Vava
+Contact : vladimir.gligorov@cern.ch
