@@ -11,6 +11,10 @@ physicists don't have enough opportunities to engage with software professionals
 good both for the physicist's ability to transfer to industry if they so choose, and good
 for bringing advanced coding methods back to our collaboration.
 
+I am of course aware that all the prizes in the world won't make up for how software skills
+get valued by job selection committees, and I am not pretending having these prizes will 
+automagically make everything better, but we have to start somewhere.
+
 1) An annual thesis prize for "most innovative contribution to LHCb software by a PhD student",
 a reward of 500 CHF plus funding for one trip to a non-HEP conference/hackathon/whatever
 of the winner's choice. To be awarded by the computing project management, open nominations.
