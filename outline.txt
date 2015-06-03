@@ -20,7 +20,7 @@ holistic approach. In turn these "experts" become culturally disconnected from t
 destroying their carefully preserved galleries of useful code fragments. Needless to
 say, this does not foster learning on the part of anyone.
 
-In fact, however, most physicists would like to learn how to code better. I say that
+In fact, however, most physicists would like to learn how to code better. We say that
 not only because physicists are a naturally curious subset of society, but also because
 the evidence is there from the detector side. When "service" work exists in a culture which
 values it, in a culture where the senior professors are often famous because they built this
@@ -44,3 +44,4 @@ and incentive structure. Please contribute and pull-request away... including if
 with the above summary of the problem.
 
 Contact : vladimir.gligorov@cern.ch
+Yasmine Amhis amhis@lal.in2p3.fr
