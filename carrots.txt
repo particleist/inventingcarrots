@@ -1,4 +1,4 @@
-This is a very incomplete list of potential rewards/incentives. It is deliberately
+This is a preliminary list of potential rewards/incentives. It is deliberately
 not simply a list of "prizes" but largely includes monetary components; how these
 would be funded is something the CB would need to think about in due course if
 any of this takes off. I just note that in the general context of LHCb expenditure, the
@@ -13,22 +13,44 @@ for bringing advanced coding methods back to our collaboration.
 
 I am of course aware that all the prizes in the world won't make up for how software skills
 get valued by job selection committees, and I am not pretending having these prizes will 
-automagically make everything better, but we have to start somewhere.
+automagically make everything better, but we have to start somewhere. 
+
+In all cases the nomination process will be open to the whole collaboration and announced
+well in advance of any prize being awarded.
+
+In order to encourage collaborative behaviour and discourage the lone genius syndrome, 
+the following general rules will apply
+
+A) Any nominated piece of software will have to include a full test suite covering all foreseen
+use cases, and have been reviewed by one person other than the author prior to being committed.
+
+B) Any nominated piece of software will have to be fully documented (whether in a note, TWiki,
+etc.) including, where appropriate, clear examples on how the code can be (re)used. In the case
+of technical improvements which, for example, speed up exisiting pieces of code, the author(s)
+should provide a clear explanation of why this specific change made things faster, and at least
+attempt to give rough examples of how a similar technique might be applied elsewhere.
+
+The proposed rewards are :
 
 1) An annual thesis prize for "most innovative contribution to LHCb software by a PhD student",
 a reward of 500 CHF plus funding for one trip to a non-HEP conference/hackathon/whatever
-of the winner's choice. To be awarded by the computing project management, open nominations.
+of the winner's choice. To be awarded by the computing project management.
 
-2) An annual prize for contributions to LHCb software, a reward of 1000 CHF plus
-funding for one trip to a non-HEP conference/hackathon/whatever of the winner's choice.
-To be awarded by the computing project management, open nominations.
-
-3) A prize for any code improvement which speeds up the reconstruction or trigger configuration
+2) A prize for any code improvement which speeds up the reconstruction or trigger configuration
 by 5% or more, a reward of 1000 CHF plus funding for one trip to a non-HEP
-conference/hackathon/whatever of the winner's choice. To be awarded by the computing project
-management, open nominations.
+conference/hackathon/whatever of the winner's choice. To be awarded by the computing&trigger project
+managements.
 
-4) A prize for collaborative programming, for initiatives which make a significant improvement
+3) An annual prize for collaborative programming, for initiatives which make a significant improvement
 to LHCb software and are seen as having improved community participation in the software
 design. Funding for one trip to a non-HEP conference/hackathon/whatever (per team member)
-of the winner's choice. To be voted on by collaboration members.
+of the winning team's choice. To be voted on by collaboration members.
+
+4) A quarterly award for contributions to improving the programming culture of the collaboration. This
+is of course somewhat subjective but example nominations might be : a team which produces
+a piece of code or package with particular evidence of a collaborative test/review/open-issue-discussion
+based approach; reviewing other people's code; committing tests for other people's code;
+giving helpful comments on other people's code. The winner would be presented and recognized at a
+Tuesday meeting and asked to give a short presentation on their work. To be awarded by the
+computing&trigger project managements. Winners would not be eligible for a repeat award for
+one year.
