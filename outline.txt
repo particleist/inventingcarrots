@@ -1,12 +1,39 @@
-Programming computers is an essential part of any high-energy physicists job :
-most of us spend hours every day writing code of some kind, whether scripting
-or something more sophisticated. In addition, funding constraints mean that writing
-efficient code is absolutely necessary to maximize our physics output. Despite
-these facts, however, the field as a whole is curiously lacking in tangible rewards
-and incentives for physicists to become skilled programmers. We have a culture in
-which being able to build a piece of detector hardware detector is a respected skill for
-a physicist, but the same is simply not true of being able to build a piece of software. 
-For this reason most of us write code in the same way that witchdoctors treat illnesses :
+How would your work change if we could dramatically decrease the time
+between realising a plot needs to be made and that plot being
+available?
+
+How much more efficient and motivated would your students be if
+"running jobs" was not a dreaded time sink best farmed out to someone
+else?
+
+The current generation of experiments require a massive infrastructure
+to analyse the data taken. Without this infrastructure the data is
+useless.
+
+With experiment's lifetimes measured in tens of years, this
+infrastructure needs to be sustainable. This document outlines ideas
+for achieving this.
+
+Programming computers is an essential part of any high-energy
+physicists job: most of us spend hours every day writing code of some
+kind, whether scripting or something more sophisticated. With data
+volumes about to increase by an order of magnitude improving our
+approach to software infrastructure is absolutely necessary to
+maximize our physics output. Despite these facts, the field as a whole
+is full of disregard for software infrastructure and social stigma,
+providing large disincentives for physicists to build sustainable
+communities around vital software infrastructure.
+
+Contrast this with communities of highly skilled indivduals forming
+around pieces of detector hardware. They join forces to design and
+operate these detectors for long time scales. Knowledge and experience
+is passed on to new members who then make significant contributions to
+the project. This fosters a community dedicated to their project. In
+this way a complex piece of the detector hardware can be sustainably
+maintained over many decades. The same does not happen for pieces of
+software.
+
+Most of us write code in the same way that witchdoctors treat illnesses :
 curating code fragments acquired over years of doing "whatever works", and assembling
 them into whichever Frankenstein is needed to solve today's problem.
 
@@ -20,21 +47,20 @@ holistic approach. In turn these "experts" become culturally disconnected from t
 destroying their carefully preserved galleries of useful code fragments. Needless to
 say, this does not foster learning on the part of anyone.
 
-In fact, however, most physicists would like to learn how to code better. We say that
-not only because physicists are a naturally curious subset of society, but also because
-the evidence is there from the detector side. When "service" work exists in a culture which
+In fact, however, most physicists would like to learn how to code better. Physicists are a
+naturally curious subset of society, as demonstrated by
+the communities from the detector side. When "service" work exists in a culture which
 values it, in a culture where the senior professors are often famous because they built this
 or that piece of a detector, and in which said professors are enthusiastic about passing this
 knowledge to younger physicists, then said younger physicists are very enthusiastic to learn.
 There is no reason why we shouldn't be able to create a similar culture around software.
 
-Recently some LHCb members have started the excellent starterkit initiative
+Recently LHCb members have started the excellent starterkit initiative
 
-https://github.com/betatim/lhcb-first-analysis-steps
+https://lhcb.github.io/first-analysis-steps
 
-which attempts to create a structure in which physicists can learn about software
-development. This is an excellent resource which addresses the chronic lack of pedagogical
-material in LHCb. However, we also need to fix the second half of the equation : until we
+which attempts to create a structure in which physicists can form communities and learn about LCHb's software infrastructure.
+This is an excellent resource. However, we also need to fix the second half of the equation : until we
 reward being a programming expert in a direct and tangible way, all the goodwill in the
 world will not be enough to overcome the incentive structures which drive people to spend
 as little of their time programming well as possible.
@@ -45,3 +71,4 @@ with the above summary of the problem.
 
 Contact : vladimir.gligorov@cern.ch
 Yasmine Amhis amhis@lal.in2p3.fr
+Tim Head <thead@cern.ch>
