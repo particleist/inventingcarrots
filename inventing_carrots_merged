@@ -5,14 +5,14 @@ How to reward work on software within the LHCb collaboration.
 Abstract
 
 In the last decades of high energy physics, programming computers passed 
-from an almost optional/aside activity to a key element without whom acquired data is uselss.
-Dispite programming computer occupies a large fraction of our working life, the field as a whole
-is full of disregard for software infrastructure and social stigma, providing large disincentives 
-for physicists to build sustainable communities around vital software infrastructure.
-This negative attitude towards computing has also a not neglible cost in terms of people and resources,
-The aim of this note is to descibe practical proposals to help the LHCb Collaboration, 
-to consider well computing programming an essential skill,
-not to mention the benefical effect on the CV score when looking for a work outside HEP.
+from an almost optional/aside activity to a key element without whom acquired data is useless.
+Despite the fact that programming computers occupies a large fraction of our working life, the field as a whole
+is full of disregard and social stigma for software infrastructure, providing large disincentives 
+for physicists to build sustainable communities around vital software.
+This negative attitude towards computing leads to a non-neglible cost in terms of people and resources.
+The aim of this note is to descibe practical proposals to help the LHCb Collaboration
+demonstrate that it considers computer programming as an essential skill,
+and to benefit the CVs of LHCb members who work on programming when looking for jobs.
 
 Introduction
 
@@ -27,8 +27,8 @@ With experiment's lifetimes measured in tens of years, this infrastructure needs
 With data volumes about to increase by an order of magnitude improving our approach to software 
 infrastructure is absolutely necessary to maximize our physics output.
 
-The comparison with communities of highly skilled indivduals forming around pieces of detector hardware,
-is dramatic. They join forces to design and operate these detectors for long time scales. Knowledge and experience
+Consider the comparison with communities of highly skilled individuals forming around pieces of detector hardware.
+They join forces to design and operate these detectors for long time scales. Knowledge and experience
 is passed on to new members who then make significant contributions to the project. 
 This fosters a community dedicated to their project. In this way a complex piece of the detector hardware 
 can be sustainably maintained over many decades. 
@@ -60,47 +60,47 @@ about passing this knowledge to younger physicists, then said younger
 physicists are very enthusiastic to learn.  There is no reason why we
 shouldn't be able to create a similar culture around software.
 
-A further relevant implication of a bad programming is the waste of resources.
-With these we intend not only the time spent by the experts, but also directly the
+A further relevant implication of a bad programming is a waste of resources.
+With these we mean not only the time spent by the experts, but also directly the
 costs in terms of disk space, CPU,... Gains from optimization and good
-programming culture, can be quantifiable on the order of 100 kEuro.
-Given the shortage on resources often referred by computing team, 
-these mere practical arguments can have a not negligible impact on the 
+programming culture can be quantifiable on the order of 100 kEuro.
+Given the shortage on resources often referred to by the computing team, 
+these practical arguments can have a non-negligible impact on the 
 life of our Collaboration.
 
 
 Courses
 
-One tool in hand to create a structure in which physicists can form
-communities and learn about LCHb's software infrastructure, is to organize software courses.
-A recent initiative of a few LHCb memember has been 
+One way to create a structure in which physicists can form
+communities and learn about LCHb's software infrastructure is to organize software courses.
+A recent initiative of a few LHCb members has been 
 the starterkit course (https://lhcb.github.io/first-analysis-steps).
 The course was divided into two parts, the first aimed at a general introduction to 
 the Unix environment and a few programming languages, while the second was focused
 specifically on the LHCb software structure.
 Much attention was paid to the communicative skills of the teachers and on the creation
 of a friendly and cooperative atmosphere.
-Teachers of the second half, were chosen among people directly involved in the LHCb
-activities on both analsyis and computing sides. Many teachers were in fact Master
-or PhD students, "expert enough" on the field to be good teachers for their (even older) colleagues.
-In a posteriori analisys, this was found also a key element to encourage collaborative behaviour
-and discourage the lone genius syndrome,
+Teachers of the second half were chosen among people directly involved in the LHCb
+activities on both analysis and computing sides. Many teachers were in fact Master
+or PhD students, "expert enough" in the field to be good teachers for their (even older) colleagues.
+Looking back, this was also a key element in encouraging collaborative behaviour
+and discouraging the lone genius syndrome,
 
 Prizes
 
-We would like to reward being a programming expert in a direct and tangible way within LHCb Collaboration.
+We would like to reward being a programming expert in a direct and tangible way within the LHCb Collaboration.
 The list of rewards and incentives we propose is deliberately not simply a list of "prizes" but largely includes
 monetary components.
-How these would be founded has to be discussed and decided by the CB,
+How these would be funded has to be discussed and decided by the CB,
 however the sums would amount to a few thousand CHF, a small fraction of 
-the hundreds of thousands of CHF that have been already saved in servers
+the hundreds of thousands of CHF that have been already saved in computing power
 by improving our software during LS1.
 
 We are aware that all the prizes in the world won't make up
-for how software skills get valued by job selection committees, 
-anyway having these prizes is one of the suggestions made is the recent
+for how software skills get valued by job selection committees.
+On the other hand we note that having prizes of this kind is one of the suggestions made is the recent
 "ECFA memorandum on evaluation" to increase the possibility of
-external commission to judge on the quality of a candidate applying for job position outside HEP.
+external commissions to judge the quality of a candidate applying for job positions outside HEP.
 
 In addition to a monetary prize, we propose funding to attend non-HEP meetings or conferences.
 This is also very deliberate, because physicists don't have enough opportunities to
