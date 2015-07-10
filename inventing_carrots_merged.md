@@ -81,8 +81,10 @@ of a friendly and cooperative atmosphere.
 Teachers of the second half were chosen among people directly involved in the LHCb
 activities on both analysis and computing sides. Many teachers were in fact Master
 or PhD students, "expert enough" in the field to be good teachers for their (even older) colleagues.
-Looking back, this was also a key element in encouraging collaborative behaviour
-and discouraging the lone genius syndrome,
+In retrospect, this was a key element in encouraging collaborative behaviour
+and discouraging the lone genius syndrome. In total over twelve people contributed to creating
+the material. Amazingly the organisation of the next event has been taken over by new people who
+helped last time. This will help ensure the continuity of the event for years to come.
 
 
 ## Prizes
