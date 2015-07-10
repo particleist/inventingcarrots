@@ -118,7 +118,7 @@ genius syndrome,  the following general rules will apply
 
 A) Any nominated piece of software will have to include a full test
 suite covering all foreseen use cases, and have been reviewed by one
-person other than the author prior to being committed.
+person other than the author. Quality of the test suite should be taken into consideration for the evaluation of the submissions.
 
 B) Any nominated piece of software will have to be fully documented
 (whether in a note, TWiki, etc.) including, where appropriate, clear
@@ -132,12 +132,12 @@ The proposed rewards are :
 
 1) An annual thesis prize for "most innovative contribution to LHCb
 software by a PhD student", a reward of 500 CHF plus funding for one
-trip to a non-HEP conference/hackathon/whatever of the winner's
+trip to a non-HEP conference/hackathon/etc of the winner's
 choice. To be awarded by the computing project management.
 
 2) A prize for any code improvement which speeds up the reconstruction
 or trigger configuration by 5% or more, a reward of 1000 CHF plus
-funding for one trip to a non-HEP conference/hackathon/whatever of the
+funding for one trip to a non-HEP conference/hackathon/etc of the
 winner's choice. To be awarded by the computing&trigger project
 managements.
 
@@ -145,7 +145,7 @@ managements.
 which make a significant improvement to LHCb software and are seen as
 having improved community participation in the software
 design. Funding for one trip to a non-HEP
-conference/hackathon/whatever (per team member) of the winning team's
+conference/hackathon/etc (per team member) of the winning team's
 choice. To be voted on by collaboration members.
 
 4) A quarterly award for contributions to improving the programming
@@ -160,6 +160,7 @@ presentation on their work. To be awarded by the computing&trigger
 project managements. Winners would not be eligible for a repeat award
 for one year.
 
+All winners are mentioned in public articles on the official LHCb webpage.
 
 ## Conclusions
 
@@ -174,3 +175,4 @@ Tim Head <thead@cern.ch>
 Vladimir Vava Gligorov <vladimir.gligorov@cern.ch>
 Yasmine Amhis <yasmine.amhis@cern.ch>
 Barbara Sciascia <barbara.sciascia@cern.ch>
+Sebastian Neubert <sebastian.neubert@cern.ch>
