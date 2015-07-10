@@ -16,8 +16,7 @@ and to benefit the CVs of LHCb members who work on programming when looking for 
 
 How would your work change if we could dramatically decrease the time between realising a plot needs 
 to be made and that plot being available?
-How much more efficient and motivated would your students be if "running jobs" was not a dreaded 
-time sink best farmed out to someone else?
+How much more efficient and motivated would your students be if working with the software was more about realising physics ideas than solving the tedious, recurring and very technical aspects of data analysis over and over again.
 
 The current generation of experiments require a massive infrastructure to analyse the data taken. 
 Without this infrastructure the data is useless.
@@ -33,7 +32,7 @@ can be sustainably maintained over many decades.
 
 The same does not happen for pieces of software. Most of us write code in the same way that witchdoctors treat
 illnesses : curating code fragments acquired over years of doing "whatever works", and assembling them into 
-whichever Frankenstein is needed to solve today's problem.
+whichever construct is needed to quickly solve today's problem. The approach often is similar to using duct-tape and makeshift contraptions in the lab, which works for the first protoype but would be inconceivable in the experiment proper.
 
 We are stuck, then, between the contradiction of real world
 constraints which make programming well an essential skill, and a
@@ -41,11 +40,9 @@ culture which steadfastly refuses to apportion appropriate recognition
 to programming well. This leads to suboptimal behaviour. A small core
 of "experts" is forever firefighting problems, often improving
 existing code in a piecemeal fashion because the resources aren't
-there to allow a more holistic approach. In turn these "experts"
-become culturally disconnected from the so-called "users", who often
-perceive necessary changes brought in by the "experts" as the hand of
-god destroying their carefully preserved galleries of useful code
-fragments. Needless to say, this does not foster learning on the part
+there to allow a more holistic approach. In turn these experts
+become culturally disconnected from the so-called users, who often
+perceive necessary changes brought in by the experts as arbitrary dictates destroying their carefully preserved galleries of useful code fragments. Needless to say, this does not foster learning on the part
 of anyone.
 
 In fact, however, most physicists would like to learn how to code
