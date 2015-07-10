@@ -1,8 +1,6 @@
-Title
+# How to reward work on software within the LHCb collaboration.
 
-How to reward work on software within the LHCb collaboration.
-
-Abstract
+## Abstract
 
 In the last decades of high energy physics, programming computers passed 
 from an almost optional/aside activity to a key element without whom acquired data is useless.
@@ -14,7 +12,7 @@ The aim of this note is to descibe practical proposals to help the LHCb Collabor
 demonstrate that it considers computer programming as an essential skill,
 and to benefit the CVs of LHCb members who work on programming when looking for jobs.
 
-Introduction
+## Introduction
 
 How would your work change if we could dramatically decrease the time between realising a plot needs 
 to be made and that plot being available?
@@ -69,7 +67,7 @@ these practical arguments can have a non-negligible impact on the
 life of our Collaboration.
 
 
-Courses
+## Courses
 
 One way to create a structure in which physicists can form
 communities and learn about LCHb's software infrastructure is to organize software courses.
@@ -86,7 +84,8 @@ or PhD students, "expert enough" in the field to be good teachers for their (eve
 Looking back, this was also a key element in encouraging collaborative behaviour
 and discouraging the lone genius syndrome,
 
-Prizes
+
+## Prizes
 
 We would like to reward being a programming enthusiast in a direct and tangible way within the LHCb Collaboration.
 The list of rewards and incentives we propose is deliberately not simply a list of "prizes" but largely includes
@@ -159,7 +158,8 @@ presentation on their work. To be awarded by the computing&trigger
 project managements. Winners would not be eligible for a repeat award
 for one year.
 
-Conclusions
+
+## Conclusions
 
 Until we reward being a programming enthusiast in a direct
 and tangible way, all the goodwill in the world will not be enough to
