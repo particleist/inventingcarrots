@@ -169,3 +169,4 @@ This note is a first attempt to formulate a proposal for how to
 set up such a reward and incentive structure within the LHCb Collaboration.
 
 Tim Head <thead@cern.ch>
+Vladimir Vava Gligorov <vladimir.gligorov@cern.ch>
