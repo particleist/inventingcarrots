@@ -170,7 +170,7 @@ set up such a reward and incentive structure within the LHCb Collaboration.
 
 Tim Head <thead@cern.ch>
 
-Vladimir Vava Gligorov <vladimir.gligorov@cern.ch>
+Vava Gligorov <vladimir.gligorov@cern.ch>
 
 Yasmine Amhis <yasmine.amhis@cern.ch>
 
