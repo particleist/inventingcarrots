@@ -185,3 +185,5 @@ Conor Fitzpatrick <conor.fitzpatrick@cern.ch>
 Silvia Borghi <silvia.borghi@cern.ch>
 
 Barbara Storaci <barbara.storaci@cern.ch>
+
+Chris Jones <jonesc@hep.phy.cam.ac.uk>
