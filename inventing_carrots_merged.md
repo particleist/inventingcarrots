@@ -181,3 +181,5 @@ Sebastian Neubert <sebastian.neubert@cern.ch>
 Marco Cattaneo <marco.cattaneo@cern.ch>
 
 Conor Fitzpatrick <conor.fitzpatrick@cern.ch>
+
+Silvia Borghi <silvia.borghi@cern.ch>
