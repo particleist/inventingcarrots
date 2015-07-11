@@ -183,3 +183,5 @@ Marco Cattaneo <marco.cattaneo@cern.ch>
 Conor Fitzpatrick <conor.fitzpatrick@cern.ch>
 
 Silvia Borghi <silvia.borghi@cern.ch>
+
+Barbara Storaci <barbara.storaci@cern.ch>
