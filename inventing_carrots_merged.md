@@ -67,7 +67,7 @@ life of our Collaboration.
 ## Courses
 
 One way to create a structure in which physicists can form
-communities and learn about LCHb's software infrastructure is to organize software courses.
+communities and learn about LHCb's software infrastructure is to organize software courses.
 A recent initiative of a few LHCb members has been 
 the starterkit course (https://lhcb.github.io/first-analysis-steps).
 The course was divided into two parts, the first aimed at a general introduction to 
