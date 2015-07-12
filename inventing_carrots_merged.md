@@ -191,3 +191,5 @@ Chris Jones <jonesc@hep.phy.cam.ac.uk>
 Ben Couturier <Ben.Couturier@cern.ch>
 
 Concezio Bozzi <bozzi@fe.infn.it>
+
+Pete Clarke <peter.clarke@ed.ac.uk>
