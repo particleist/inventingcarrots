@@ -58,7 +58,7 @@ shouldn't be able to create a similar culture around software.
 A further relevant implication of a bad programming is a waste of resources.
 With these we mean not only the time spent by the enthusiasts, but also directly the
 costs in terms of disk space, CPU,... Gains from optimization and good
-programming culture can be quantifiable on the order of 100 kEuro.
+programming culture can be quantifiable on the order of 1 MEuro.
 Given the shortage on resources often referred to by the computing team, 
 these practical arguments can have a non-negligible impact on the 
 life of our Collaboration.
@@ -189,3 +189,5 @@ Barbara Storaci <barbara.storaci@cern.ch>
 Chris Jones <jonesc@hep.phy.cam.ac.uk>
 
 Ben Couturier <Ben.Couturier@cern.ch>
+
+Concezio Bozzi <bozzi@fe.infn.it>
