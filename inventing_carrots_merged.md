@@ -194,3 +194,5 @@ Concezio Bozzi <bozzi@fe.infn.it>
 Pete Clarke <peter.clarke@ed.ac.uk>
 
 Alex Pearce <alex.pearce@cern.ch>
+
+Stefan Roiser <stefan.roiser@cern.ch>
